@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Willkommen auf meinem GitHub-Profil!
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadKarkanawi&color=blue)
+
 <!--
 **MuhammadKarkanawi/MuhammadKarkanawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
